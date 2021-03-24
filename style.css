@@ -1,0 +1,300 @@
+#container {
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 24px;
+   }
+#borderl {
+    width: 10px;
+    float: left;
+   }
+#borderp {
+    width: 10px;
+    float: right;
+   }
+#centerr {
+    margin: 0 10px 0 10px;
+}
+
+#block1{
+    height: 108px;
+}
+
+#image1 {
+    float: left;
+}
+
+#text3 {
+    float: right;
+    width: 513px;
+    height: 108px;
+    background-color: gray;
+    color: white;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: right;
+    text-decoration: underline;
+}
+
+#textnomer {
+    float: right;
+    width: 142px;
+    height: 58px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-top: 25px;
+    margin-right: 22px;
+}
+
+#text2 {
+    margin: 0 606px 0 145px;
+    float: center;
+    width: 279px;
+    height: 108px;
+    background-color: gray;
+}
+
+#line1 {
+    margin-top: 19px;
+}
+
+#block2 {
+    width: 960px;
+    height: 773px;
+    margin-top: 22px;
+}
+
+#block4and7 {
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 184px;
+    height: 773px;
+}
+
+#block4fon {
+    float: left;
+    width: 184px;
+    height: 335px;
+    background-color: gray;
+}
+
+#block4 {
+    width: 139px;
+    height: 299px;
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    margin-top: 19px;
+    margin-left: 13px;
+}
+
+
+#block4text {
+    font-family: "Arial - Bold MT";
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+
+.list1 li {
+    list-style-type: none;
+}
+
+#block5689 {
+    float: right;
+    width: 757px;  
+}
+
+#block5 {
+    float: right;
+    width: 757px;
+    height: 210px;
+    background-color: lightgrey;
+}
+
+#block5text {
+    width: 666px;
+    height: 168px;
+    color: #777777;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    margin-top: 22px;
+    margin-left: 20px;
+
+}
+
+#moreimage {
+    float: right;
+
+    width: 757px;
+    height: 325px;
+    margin-top: 19px;
+}
+
+#moreimage2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#moreimage3 {
+    width: 288.25px;
+    height: 151px;
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    margin-top: 24.25px;
+}
+
+#block8and9 {
+    width: 757px;
+    height: 200px;
+    margin-top: 572px;
+}
+
+#block8 {
+    float: left;
+    width: 370px;
+    height: 200px;
+    background-color: lightgrey;
+}
+
+#block8text {
+    width: 329px;
+    height: 145px;
+    color: #777777;
+    font-family: "Arial";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    margin-top: 23px;
+    margin-left: 18px;
+}
+
+
+#block9 {
+    float: right;
+    width: 370px;
+    height: 200px;
+    background-color: lightgrey;
+}
+
+#block9text{
+    width: 327px;
+    height: 79px;
+    color: #777777;
+    font-family: "Arial";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    margin-top: 23px;
+    margin-left: 19px;
+}
+
+#line2 {
+    margin-top: 25px;
+}
+
+#block10to13 {
+    width: 960px;
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 24px;
+   }
+#block10 {
+    width: 297px;
+    height: 180px;
+    background-color: grey;
+    float: left;
+   }
+.block10text li {
+    list-style-type: none;
+    margin-right: 75px;
+}
+.block10text {
+    width: 297px;
+    height: 165px;
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    display: flex;
+    flex-flow: column wrap;
+    margin-top: 18px;
+    margin-left: 25px;
+}
+
+
+
+#block12and13 {
+    width: 308px;
+    height: 180px;
+    float: right;
+   }
+#block12 {
+    width: 308px;
+    height: 77px;
+    background-color: grey;
+}
+#block13 {
+    margin-top: 26px;
+}
+
+
+
+#block11 {
+    width: 297px;
+    height: 180px;
+    background-color: grey;
+    margin: 0 336px 0 325px;
+   }
+.block11list{
+    padding: 7px;
+}
+.block11list ul {
+    width: 220px;
+    height: 146px;
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+}
