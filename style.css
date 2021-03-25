@@ -1,19 +1,13 @@
+body {
+    margin: 0;
+}
 #container {
-    width: 980px;
+    width: 960px;
+    padding: 0px 10px 0px 10px;
     margin: 0 auto;
     margin-top: 24px;
    }
-#borderl {
-    width: 10px;
-    float: left;
-   }
-#borderp {
-    width: 10px;
-    float: right;
-   }
-#centerr {
-    margin: 0 10px 0 10px;
-}
+
 
 #block1{
     height: 108px;
@@ -29,7 +23,7 @@
     height: 108px;
     background-color: gray;
     color: white;
-    font-family: "Arial MT";
+    font-family: "Arial";
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
@@ -88,7 +82,7 @@
     width: 139px;
     height: 299px;
     color: #ffffff;
-    font-family: "Arial MT";
+    font-family: "Arial";
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
@@ -101,7 +95,7 @@
 
 
 #block4text {
-    font-family: "Arial - Bold MT";
+    font-family: "Arial";
     font-weight: 700;
     font-style: normal;
     letter-spacing: normal;
@@ -128,7 +122,7 @@
     width: 666px;
     height: 168px;
     color: #777777;
-    font-family: "Arial MT";
+    font-family: Arial;
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
@@ -240,7 +234,7 @@
     width: 297px;
     height: 165px;
     color: #ffffff;
-    font-family: "Arial MT";
+    font-family: "Arial";
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
@@ -284,16 +278,14 @@
     width: 220px;
     height: 146px;
     color: #ffffff;
-    font-family: "Arial MT";
+    font-family: "Arial";
     font-size: 14px;
-    font-weight: 400;
-    font-style: normal;
     letter-spacing: normal;
-    line-height: 22px;
+    line-height: 20px;
+    font-weight: lighter;
     text-align: left;
     font-style: normal;
     letter-spacing: normal;
-    line-height: normal;
     display: flex;
     flex-flow: column wrap;
     justify-content: space-between;
